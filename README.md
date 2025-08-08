@@ -36,7 +36,7 @@ npm run dev
 5) Ative o DKIM dentro do Zoho (ele te dá um **TXT** para você adicionar).
 6) Depois, no Gmail: **Configurações -> Contas e importação -> Enviar e-mail como** ->
    - Adicione `contato@victorvinicius.adv.br` usando SMTP da Zoho:
-     - Servidor: `smtp.zoho.com` | Porta 465 (SSL) | Usuário: contato@victorvinicius.adv.br
+     - Servidor: `smtp.zoho.com` | Porta 465 (SSL) | Usuário: victorvinicius.advogado@gmail.com
 
 Pronto: você recebe no Zoho e envia pelo Gmail com seu domínio.
 
