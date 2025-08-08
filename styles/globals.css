@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --prim:#0B1C2E;
+  --gold:#C8A94B;
+  --fundo:#0E0F12;
+}
+
+body{ background: var(--fundo); color: white; }
